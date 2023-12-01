@@ -15,15 +15,15 @@ This repository contains python script for performing market basket analysis usi
 2. **Exploratory Data Analysis (EDA):**
    - Calculate summary statistics to understand the distribution of member numbers.
    - Analyze the variety of items in the item description.
-   - Explore trends over time.  
-
-3. **Market Basket Analysis:**
-   - Application of Apriori algorithm to generate association rules and discover frequent itemsets. 
-   - Set a minimum support threshold to filter out infrequent itemsets.
-
-4. **Visualization:**
+   - Explore trends over time.
+  
+3. **Visualization:**
    - Histogram illustrating the distribution of basket sizes in the dataset, showing average number of items in each member's transaction basket. 
    - Bar charts highlighting item frequencies, transaction patterns and other insights.
+ 
+4. **Market Basket Analysis:**
+   - Application of Apriori algorithm to generate association rules and discover frequent itemsets. 
+   - Set a minimum support threshold to filter out infrequent itemsets.
 
 5. **Interpretation and Insights:**
    - evaluate association rules.
