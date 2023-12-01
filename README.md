@@ -26,7 +26,7 @@ This repository contains python script for performing market basket analysis usi
    - Bar charts highlighting item frequencies, transaction patterns and other insights.
 
 5. **Interpretation and Insights:**
-   - evaluate association rules with confidence and support metrics.
+   - evaluate association rules.
 
 
 ## Project Structure
